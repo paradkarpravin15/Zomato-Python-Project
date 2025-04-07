@@ -48,4 +48,4 @@ I'm open to feedback, collaborations, or internship opportunities!
 ---
 
 ### 📌 Tags:
-`Python` `EDA` `Zomato` `Data Analysis` `Pandas` `Matplotlib` `Seaborn` `JupyterNotebook` `Data Visualization`
+`Python` `EDA` `Zomato` `Data Analysis` `Pandas` `Matplotlib` `Seaborn` `Google Colab` `Data Visualization`
