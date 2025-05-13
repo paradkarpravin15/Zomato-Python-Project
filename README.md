@@ -37,7 +37,7 @@ This project involves **Exploratory Data Analysis (EDA)** on the Zomato restaura
 
 ## 📁 Files Included:
 - `ZomatoProject.ipynb` – Full analysis notebook
-- `Zomato data.csv` – Cleaned dataset used (if available)
+- `Zomato data.csv` – Cleaned dataset used
 
 ## 🤝 Connect with Me:
 I'm open to feedback, collaborations, or internship opportunities!
